@@ -6,5 +6,5 @@ def select_winner(passengers)
  #suite_d: "Charlie Chaplin", 
  #suite_e: "Crumpet the Elf"
  #}#
-select_winner = [passengers[0]]
+select_winner = "Amanda Presley"
 end
