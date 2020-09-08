@@ -8,8 +8,8 @@ passengers = {
  }
   
  
-  passengers.each do |suite, name|
+  passengers.each do |suite[0], name|
     if suite == :suite_a && name.start_with?("A")
-      
+      select_winner = name 
 end 
 end
