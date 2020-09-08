@@ -13,6 +13,3 @@ passengers = {
       winner = name 
 end 
 end
-
-
-
